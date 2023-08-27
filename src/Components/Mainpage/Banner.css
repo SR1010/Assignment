@@ -1,0 +1,334 @@
+#Fresh{
+    position: absolute;
+    width: 689px;
+    height: 151px;
+    top: 280px;
+    left: 115px;    
+    font-family: Syne;
+    font-size: 135px;
+    font-weight: 800;
+    line-height: 103px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+#Year{
+    position: absolute;
+    width: 710px;
+    height: 144px;
+    top: 396px;
+    left: 424px;   
+    font-family: Syne;
+    font-size: 135px;
+    font-weight: 800;
+    line-height: 103px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px;
+}
+#Look{
+    position: absolute;
+    width: 527px;
+    height: 103px;
+    top: 505px;
+    left: 187px;    
+    font-family: Syne;
+    font-size: 135px;
+    font-weight: 800;
+    line-height: 103px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);    
+}
+
+#rectangle29{
+    position: absolute;
+    width: 993px;
+    height: 354.30108642578125px;
+    top: 344.61749267578125px;
+    left: 447px;
+    opacity: 0.20000000298023224;
+    background: rgba(240, 126, 21, 1);
+    z-index: 1;
+}
+
+#rectangle30{
+    position: absolute;
+    width: 993px;
+    height: 354.30108642578125px;
+    top: 344.61749267578125px;
+    left: 447px;    
+    background: rgba(240, 126, 21, 1);
+}
+
+#Star3{
+    position: absolute;
+    width: 367px;
+    height: 371.5099792480469px;
+    top: 129px;
+    left: 1010px;
+    border: 1px;   
+}
+
+#BlackJacketPerson{
+    position: absolute;
+    width: 432px;
+    height: 654.9508666992188px;
+    top: 133.04913330078125px;
+    left: 899px;
+    
+}
+
+#OregonJacket{
+    position: absolute;
+    width: 117px;
+    height: 16.19662094116211px;
+    top: 614.8986206054688px;
+    left: 1300px;
+    font-family: Work Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(22, 22, 21, 1);
+    text-transform: uppercase;
+}
+
+#Price{
+    position: absolute;
+    width: 31px;
+    height: 16.19662094116211px;
+    top: 634.1321105957031px;
+    left: 1300px;
+    font-family: Work Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(22, 22, 21, 1);    
+}
+
+#Line23{
+    position: absolute;
+    width: 976.0000000000036px;
+    top: 665.5130615234375px;
+    border: 1px;
+    transform: rotate(-0deg);
+}
+
+#Star4{
+    position: absolute;
+    width: 64px;
+    height: 89.08141326904297px;
+    top: 620.9723510742188px;
+    left: 944px;    
+}
+
+
+#Frame11197{
+    position: absolute;
+    width: Hug (103px);
+    height: Hug (24px);
+    top: 696px;
+    left: 115px;
+    border: 1px;
+    gap: 3px;    
+    color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(255, 255, 255, 1);
+}
+#Frame1{
+    width: Fill (103px);
+    height: Hug (21px);
+    gap: 8px;
+}
+#Frame3{
+    width: Hug (85px);
+    height: Hug (21px);    
+}
+#seemore{
+    width: 85px;
+    height: 21px;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;    
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+#VectorArrow{
+    position: relative;
+    width: 10px;
+    height: 10px;
+    border: 0.30000001192092896px;   
+    left: 8px; 
+}
+#Line16{
+    width: 84.00000000000038px;
+    color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(255, 255, 255, 1);
+}
+
+
+
+
+
+
+@media screen and (width=390px) and(height=2121px) {
+    #Fresh{
+        width: 248px;
+        height: 69px;
+        top: 420px;
+        left: 15px;  
+        font-family: Syne;
+        font-size: 55px;
+        font-weight: 800;
+        line-height: 69px;
+        letter-spacing: 0em;
+        text-align: left;      
+        z-index: 2;        
+    }
+    
+    #Year{
+        width: 225px;
+        height: 69px;
+        top: 468px;
+        left: 98px;        
+        font-family: Syne;
+        font-size: 55px;
+        font-weight: 800;
+        line-height: 69px;
+        letter-spacing: 0em;
+        text-align: left;        
+        z-index: 2;
+    }
+    #Look{
+        width: 215px;
+        height: 69px;
+        top: 520px;
+        left: 41px;
+        font-family: Syne;
+        font-size: 55px;
+        font-weight: 800;
+        line-height: 69px;
+        letter-spacing: 0em;
+        text-align: left;      
+        z-index: 2;          
+    }
+    
+    #rectangle29{
+        width: 737.8541870117188px;
+        height: 324.1936340332031px;
+        top: 318.294921875px;
+        left: -212.8541259765625px;
+        opacity: 0.20000000298023224;        
+        z-index: 1;
+    }
+    
+    #rectangle30{
+        width: 737.8541870117188px;
+        height: 324.1936340332031px;
+        top: 318.294921875px;
+        left: -212.8541259765625px;        
+    }
+    
+    #Star3{
+        width: 272.7013854980469px;
+        height: 339.94012451171875px;
+        top: 121px;
+        left: 205.486083984375px;        
+    }
+    
+    #BlackJacketPerson{
+        width: 321px;
+        height: 599.2950439453125px;
+        top: 124.7049560546875px;
+        left: 123.00689697265625px;        
+    }
+    
+    #OregonJacket{
+        width: 120.93750762939453px;
+        height: 14.820279121398926px;
+        top: 565.6083679199219px;
+        left: 420.97216796875px;       
+        font-family: Work Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;        
+    }
+    
+    #Price{
+        width: 23.03472137451172px;
+        height: 14.820279121398926px;
+        top: 583.2073974609375px;
+        left: 420.97216796875px;      
+        font-family: Work Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;            
+    }
+    
+    #Line23{
+        width: 725.2222290039105px;
+        top: 611.9216918945312px;
+        left: -545px;    
+    }
+    
+    #Star4{
+        width: 47.55555725097656px;
+        height: 81.51152801513672px;
+        top: 571.1658935546875px;
+        left: 156.44439697265625px;
+    }
+
+    
+    #Frame11197{
+        width: Hug (103px);
+        height: Hug (24px);
+        top: 660px;
+        left: 20px;
+        border: 1px;
+        gap: 3px;
+        border: 1px solid rgba(255, 255, 255, 1);
+    }
+    #Frame1{
+        width: Fill (103px);
+        height: Hug (21px);
+        gap: 8px;        
+    }
+    #Frame3{
+        width: Hug (85px);
+        height: Hug (21px);          
+    }
+    #seemore{
+        width: 89px;
+        height: 21px;   
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: left;             
+    }
+    #VectorArrow{
+        width: 10px;
+        height: 10px;
+        border: 0.30000001192092896px;        
+    }
+    #Line16{
+        width: 100.00000000000038px;
+        border: 1px solid rgba(255, 255, 255, 1);
+    }
+    
+    
+}

@@ -1,0 +1,295 @@
+a{
+    text-decoration: none;
+    color:rgba(255, 255, 255, 1);
+}
+#home{
+    position: absolute;
+    width: 71px;
+    height: 28px;
+    top: 115px;
+    left: 137px; 
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+    list-style: none;
+}
+
+#about{
+    position: absolute;
+    width: 70px;
+    height: 28px;
+    top: 115px;
+    left: 314px;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+    list-style: none;
+}
+
+#product{
+    position: absolute;
+    width: 159px;
+    height: 123px;
+    top: 115px;
+    left: 490px;
+    text-transform: uppercase;
+    list-style: none;
+}
+
+#productbtn{
+    width: 159px;
+    height: 28px;   
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 1);
+    background-color: transparent;
+    border: 0;
+    &:hover{
+        cursor: pointer;
+    }
+}
+#Line34{
+    display: block;
+    position: absolute;
+    width: 139px;
+    top: 23px;
+    right: 20px;
+    border: 1px;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(255, 255, 255, 1);
+}
+#noline{
+    display: none;
+}
+
+#p1,#p2,#p3,#p4{
+    position: absolute;
+    width: 129px;
+    height: 28px;    
+    font-family: Work Sans;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    list-style: none;
+}
+#p1{
+    top: 29px;
+}
+#p2{
+    top: 51px;
+}
+#p3{
+    top: 73px;
+}
+#p4{
+    top: 95px;
+}
+
+
+#revealProducts{
+    display: block;
+}
+#hideProducts{
+    display: none;
+}
+
+
+
+#contact{
+    position: absolute;
+    width: 118px;
+    height: 28px;
+    top: 115px;
+    left: 755px;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+    list-style: none;
+}
+
+#HamburgerMenu, #Cross{
+    display: none;
+}
+
+
+
+
+
+@media screen and (width=390px) and(height=2121px) {
+    .HamburgerMenu{
+        display: block;
+        position: absolute;
+        background-repeat: no-repeat;
+        background-image: url('../Uploads/hamburger\ menu.svg');
+        width: 24px;
+        height: 24px;
+        top: 71px;
+        left: 346px;
+        padding: 5px 3px 5px 3px;
+        border: 1px;
+    }
+    .Cross{
+        display: block;
+        position: absolute;
+        background-repeat: no-repeat;
+        background-image: url('../Uploads/cross.svg');
+        width: 24px;
+        height: 24px;
+        top: 71px;
+        left: 346px;
+        padding: 5px 4.999973297119141px 4.999987602233887px 4.9999847412109375px;
+        border: 1px;  
+        z-index: 50;      
+    }
+
+    #home{
+        all: unset;
+        position: absolute;
+        color: rgba(255, 255, 255, 1);
+        width: 71px;
+        height: 28px;
+        top: 209px;
+        left: 219px;        
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: center;
+        
+        text-transform: uppercase;
+        list-style: none;
+    }
+    
+    
+    #about{
+        all: unset;
+        position: absolute;
+        width: 70px;
+        height: 28px;
+        top: 283px;
+        left: 219px;
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: center;
+        
+        color: rgba(255, 255, 255, 1);
+        text-transform: uppercase;
+        list-style: none;
+        z-index: 50;
+    }
+    
+    #product{
+        all: unset;
+    }
+    
+    #productbtn{
+        position: absolute;
+        width: 156px;
+        height: 28px;
+        top: 369px;
+        left: 176px;
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: center;
+        
+        text-transform: uppercase;
+        color:rgba(255, 255, 255, 1);
+        background-color: transparent;
+        z-index: 50;
+        &:hover{
+            cursor: pointer;
+        }
+    }
+    #Line34{
+        all: unset;
+        display: none;
+    }
+    #noline{
+        display: none;
+    }
+    
+    #p1{
+        all: unset;
+        display: none;
+    }
+    #p2{
+        all: unset;
+        display: none;
+    }
+    #p3{
+        all: unset;
+        display: none;
+    }
+    #p4{
+        all: unset;
+        display: none;
+    }
+    
+    
+    #contact{
+        all: unset;
+        position: absolute;
+        width: 118px;
+        height: 28px;
+        top: 453px;
+        left: 195px;
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: center;
+        
+        color: rgba(255, 255, 255, 1);
+        text-transform: uppercase;
+        list-style: none;
+        z-index: 50;
+    }
+    #menu.active{
+        background-image: url('../Uploads/Rectangle.svg'), opacity(0.5);
+        background-blend-mode: overlay;
+        background-color: rgba(22, 22, 21, 1);
+        position: absolute;
+        width: 470px;
+        height: 682px;
+        top: 42px;
+        left: -59px;        
+        z-index: 10;
+    }
+    #home.active, #about.active, #productbtn.active, #contact.active{
+        left: -800px;
+        transition: 0.5s ease-in-out;
+        z-index: 100;
+    }
+    
+}

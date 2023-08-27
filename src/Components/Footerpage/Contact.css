@@ -1,0 +1,341 @@
+#BackgroundMap{
+    background-image: url('../Uploads/18591063.svg');
+    position: absolute;
+    width: 1440px;
+    height: 520px;
+    top: 1562px;    
+}
+
+#Newslleter{
+    position: absolute;
+    width: 385px;
+    height: 52px;
+    top: 1644px;
+    left: 103px;
+    font-family: Syne;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 31.2px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#aboutnewsletter{
+    position: absolute;
+    width: 337px;
+    height: 52px;
+    top: 1678px;
+    left: 103px;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21.11px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.5);        
+}
+
+#name{
+    position: absolute;
+    width: 303px;
+    height: 30px;
+    top: 1644px;
+    left: 630px;  
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: transparent;
+    border: 0;
+    color: rgba(255, 255, 255, 0.5);
+}
+#Line19{
+    position: absolute;
+    width: 558px;
+    top: 1674px;
+    left: 616px;
+    border: 1px;
+    border: 1px solid rgba(255, 255, 255, 1);
+}
+
+
+#email{
+    position: absolute;
+    width: 303px;
+    height: 30px;
+    top: 1709px;
+    left: 630px;    
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: transparent;
+    border: 0;
+    color: rgba(255, 255, 255, 0.5);
+}
+#Line20{
+    position: absolute;
+    width: 558px;
+    top: 1739px;
+    left: 616px;
+    border: 1px;    
+    border: 1px solid rgba(255, 255, 255, 1);
+}
+
+#message{
+    position: absolute;
+    width: 303px;
+    height: 30px;
+    top: 1778px;
+    left: 630px;   
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: transparent;
+    border: 0;
+    color: rgba(255, 255, 255, 0.5);
+    &:active{
+        border: 0px;
+    }
+}
+#Line21{
+    position: absolute;
+    width: 558px;
+    top: 1808px;
+    left: 616px;
+    border: 1px;
+    border: 1px solid rgba(255, 255, 255, 1);
+}
+
+#sendbtn{
+    position: absolute;
+    width: 181px;
+    height: 181px;
+    top: 1822px;
+    left: 1162px;
+    background-color: transparent;
+    border: 0;
+}
+#send{
+    position: absolute;
+    width: 72px;
+    height: 16px;
+    top: 83px;
+    left: 55px;
+    font-family: Work Sans;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(240, 126, 21, 1);
+}
+#Ellipse1{
+    position: absolute;
+    width: 181px;
+    height: 181px;
+    top: 0;
+    left: 0;
+    border: 2px;
+    color: rgba(240, 126, 21, 1);
+    border: 2px solid rgba(240, 126, 21, 1);
+    border-radius: 200px;
+}
+
+
+#GetInTouch{
+    position: absolute;
+    width: 1159px;
+    height: 236px;
+    top: 1846px;
+    left: 90px;
+    font-family: Syne;
+    font-size: 135px;
+    font-weight: 800;
+    line-height: 103px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+
+
+
+
+
+@media screen and (width=390px) and(height=2121px) {
+    #BackgroundMap{
+        position: absolute;
+        width: 388px;
+        height: 635px;
+        top: 1477px;
+        left: 1px;         
+    }
+    #Newslleter{
+        position: absolute;
+        width: 385px;
+        height: 52px;
+        top: 1539px;
+        left: 3px;      
+        font-family: Syne;
+        font-size: 26px;
+        font-weight: 600;
+        line-height: 31px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.5);
+    }
+
+    #aboutnewsletter{
+        position: absolute;
+        width: 290px;
+        height: 52px;
+        top: 1572px;
+        left: 50px;    
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.5);        
+    }
+
+    #GetInTouch{
+        position: absolute;
+        width: 350px;
+        height: 129px;
+        top: 1892px;
+        left: 20px;
+        border: 1px;   
+        font-family: Syne;
+        font-size: 55px;
+        font-weight: 800;
+        line-height: 37px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+    #name{
+        position: absolute;
+        width: 303px;
+        height: 30px;
+        top: 1673px;
+        left: 29px;  
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: left;
+              
+        color: rgba(255, 255, 255, 0.5);
+    }
+    #Line19{
+        position: absolute;
+        width: 350px;
+        top: 1701px;
+        left: 20px;
+        border: 1px;
+        
+        border: 1px solid rgba(255, 255, 255, 1);
+    }
+    
+    
+    #email{
+        position: absolute;
+        width: 303px;
+        height: 30px;
+        top: 1728px;
+        left: 29px;
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: left;        
+        
+        background-color: transparent;
+        border: 0;
+        color: rgba(255, 255, 255, 0.5);
+    }
+    #Line20{
+        position: absolute;
+        width: 350px;
+        top: 1756px;
+        left: 20px;
+        border: 1px;
+        
+        border: 1px solid rgba(255, 255, 255, 1);
+    }
+    
+    #message{
+        position: absolute;
+        width: 303px;
+        height: 30px;
+        top: 1787px;
+        left: 29px;
+        font-family: Work Sans;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: left;
+        
+        background-color: transparent;
+        border: 0;
+        color: rgba(255, 255, 255, 0.5);
+    }
+    #Line21{
+        position: absolute;
+        width: 350px;
+        top: 1815px;
+        left: 20px;
+        border: 1px;
+        
+        border: 1px solid rgba(255, 255, 255, 1);
+    }
+    
+    #sendbtn{
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 1878px;
+        left: 270px;  
+        border: 0;
+    }
+    #send{
+        position: absolute;
+        width: 39px;
+        height: 10px;
+        top: 45px;
+        left: 31px;
+        font-family: Work Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 9px;
+        letter-spacing: 0em;
+        text-align: left;
+        
+        color: rgba(240, 126, 21, 1);
+    }
+    #Ellipse1{
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        top: 0px;
+        left: 0px;
+        border: 1.15px solid rgba(240, 126, 21, 1);
+        border-radius: 200px;
+    }
+    
+}

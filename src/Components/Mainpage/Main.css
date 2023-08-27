@@ -1,0 +1,132 @@
+#Rectangle{
+    width: 1440px;
+    height: 749px;
+    top: 41px;
+    opacity: 0.5;
+    background-blend-mode: overlay;
+}
+
+#Rectangle31{
+    position: absolute;
+    width: 1440px;
+    height: 748px;
+    top: 42px;
+    background-color: rgba(22, 22, 21, 1);
+}
+
+#ShopKart{
+    position: absolute;
+    text-decoration: none;
+    width: 176px;
+    height: 60px;
+    top: 41px;
+    left: 90px;
+    border: 1px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: 275;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+#Wishlist{
+    position: absolute;
+    text-decoration: none;
+    width: 89px;
+    height: 16px;
+    top: 70px;
+    left: 1200px;
+    font-family: Work Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:rgba(255, 255, 255, 1);
+}
+
+#Bag{
+    position: absolute;
+    text-decoration: none;
+    width: 51px;
+    height: 16px;
+    top: 70px;
+    left: 1299px;
+    font-family: Work Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+#Line17{
+    position: absolute;
+    width: 1260px;
+    top: 98px;
+    left: 90px;    
+}
+
+#Star1{
+    position: absolute;
+    width: 21.1441650390625px;
+    height: 22px;
+    top: 87px;
+    left: 476px;    
+}
+
+
+
+
+@media screen and (width=390px)and(height=2121px) {
+    #Rectangle{
+        width: 470px;
+        height: 682px;
+        top: 42px;
+        left: -59px;        
+        opacity: 0.5;
+        background-blend-mode: overlay;
+    }
+    
+    #Rectangle31{
+        width: 470px;
+        height: 682px;
+        top: 42px;
+        left: -59px;        
+        background-color: rgba(22, 22, 21, 1);
+    }
+    #ShopKart{
+        width: 132px;
+        height: 45px;
+        top: 61px;
+        left: 20px;        
+        font-family: Poppins;
+        font-size: 30px;
+        font-weight: 275;
+        line-height: 45px;        
+    }
+    
+    #Wishlist{
+       display: none;    }
+    
+    #Bag{
+        display: none;
+    }
+    
+    #Line17{
+        position: absolute;
+        width: 350px;
+        top: 110px;
+        left: 20px;
+        border: 1px;
+        background-color: rgba(255, 255, 255, 1);        
+    }
+    
+    #Star1{
+        display: none;
+    }
+    
+}

@@ -1,0 +1,408 @@
+#Newproducts{
+    position: absolute;
+    width: 689px;
+    height: 151px;
+    top: 860px;
+    left: 83px;   
+    font-family: Syne;
+    font-size: 90px;
+    font-weight: 600;
+    line-height: 108px;
+    letter-spacing: 0em;
+    text-align: left;
+     color: rgba(0, 0, 0, 1);
+}
+
+#Line18{
+    position: absolute;
+    width: 648.0000000000025px;
+    top: 965px;
+    left: 78px;
+}
+
+#Star2{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    top: 954px;
+    left: 67px;    
+}
+
+#Arrow1{
+    position: absolute;
+    width: 55px;
+    top: 925px;
+    left: 1281px;
+    border: 1px;
+    transform: rotate(0deg);
+    
+    
+}
+
+#Arrow2{
+    position: absolute;
+    width: 55px;
+    top: 925px;
+    left: 1178px;
+    border: 1px;
+    transform: rotate(360deg);
+    
+    
+}
+
+#Apparel{
+    position: absolute;
+    width: 68px;
+    height: 21px;
+    top: 999px;
+    left: 91px;    
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+#Accessories{
+    position: absolute;
+    width: 158px;
+    height: 31px;
+    top: 1043px;
+    left: 91px;  
+    font-family: Syne;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;    
+    color: rgba(0, 0, 0, 1);
+}
+
+#Bestsellers{
+    position: absolute;
+    width: 104px;
+    height: 21px;
+    top: 1094px;
+    left: 91px;  
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+#discount{
+    position: absolute;
+    width: 67px;
+    height: 21px;
+    top: 1138px;
+    left: 91px;    
+    font-family: Work Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+
+
+#Pdt1{
+    position: absolute;
+    width: 310px;
+    height: 322px;
+    top: 998px;
+    left: 346px;
+}
+#Pdt2{
+    position: absolute;
+    width: 304px;
+    height: 322px;
+    top: 998px;
+    left: 682px;    
+}
+#Pdt3{
+    position: absolute;
+    width: 305px;
+    height: 322px;
+    top: 998px;
+    left: 1012px;    
+}
+#Pdt4{
+    position: absolute;
+    width: 304px;
+    height: 322px;
+    top: 998px;
+    left: 1343px;    
+}
+
+#group19{
+    background-image: url('../Uploads/Group\ 19.svg');
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 1275px;
+    left: 611px;
+}
+#group19-2{
+    background-image: url('../Uploads/Group\ 19.svg');
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 1275px;
+    left: 941px;
+}
+#group19-3{
+    background-image: url('../Uploads/Group\ 19.svg');
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    top: 1275px;
+    left: 1272px;    
+}
+
+
+
+#textfield1{
+    position: absolute;
+    width: Hug (310px);
+    height: Hug (125px);
+    top: 1332px;
+    left: 346px;
+    gap: 8px;    
+}
+#textfield2{
+    position: absolute;
+    width: Hug (310px);
+    height: Hug (125px);
+    top: 1332px;
+    left: 682px;
+    gap: 8px;
+}
+#textfield3{
+    position: absolute;
+    width: Hug (310px);
+    height: Hug (125px);
+    top: 1332px;
+    left: 1012px;
+    gap: 8px;
+}
+#textfield4{
+    position: absolute;
+    width: Hug (310px);
+    height: Hug (125px);
+    top: 1332px;
+    left: 1343px;
+    gap: 8px;    
+}
+
+
+
+
+#Frame11194{
+    width: Fixed (310px);
+    height: Hug (125px);
+    padding: 0px 8px 0px 8px;
+    gap: 8px;
+}
+#jacket{
+    width: 258px;
+    height: 30px;
+    font-family: Syne;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+#jktext{
+    width: 303px;
+    height: 49px;
+    font-family: Work Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(22, 22, 21, 0.5);
+}
+#jktprice{
+    width: 258px;
+    height: 30px;
+    font-family: Syne;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;    
+    color: rgba(0, 0, 0, 1);
+}
+
+
+
+
+
+@media screen and (width=390px) and(height=2121px) {
+    #Newproducts{
+        position: absolute;
+        width: 287px;
+        height: 50px;
+        top: 769px;
+        left: 23px;
+        font-family: Syne;
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: left;
+         color: rgba(0, 0, 0, 1);
+    }
+    #Line18{
+        position: absolute;
+        width: 648.0000000000025px;
+        top: 823px;
+        left: 20px;   
+        border: 1px solid rgba(22, 22, 21, 1)
+    }
+    
+    #Star2{
+        position: absolute;
+        width: 22px;
+        height: 22px;
+        top: 812px;
+        left: 9px;           
+    }
+    
+    #Apparel{
+        position: absolute;
+        width: 53px;
+        height: 16px;
+        top: 841px;
+        left: 28px;        
+        font-family: Work Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;        
+        color: rgba(0, 0, 0, 1);
+    }
+    
+    #Accessories{
+        position: absolute;
+        width: 110px;
+        height: 22px;
+        top: 838px;
+        left: 95px;  
+        font-family: Syne;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 22px;
+        letter-spacing: 0em;
+        text-align: left;        
+        color: rgba(0, 0, 0, 1);
+    }
+    
+    #Bestsellers{
+        position: absolute;
+        width: 81px;
+        height: 16px;
+        top: 841px;
+        left: 219px;      
+        font-family: Work Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;          
+        color: rgba(0, 0, 0, 1);
+    }
+    
+    #discount{
+        position: absolute;
+        width: 53px;
+        height: 16px;
+        top: 841px;
+        left: 314px;        
+        font-family: Work Sans;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 16px;
+        letter-spacing: 0em;
+        text-align: left;        
+        color: rgba(0, 0, 0, 1);
+    }
+
+    #Pdt1{
+        position: absolute;
+        width: 310px;
+        height: 322px;
+        top: 898px;
+        left: 20px;        
+    }
+    #Pdt2{
+        position: absolute;
+        width: 304px;
+        height: 322px;
+        top: 898px;
+        left: 356px;        
+    }
+    #group19{
+        background-image: url('../Uploads/Group\ 19.svg');
+        position: absolute;
+        width: 45px;
+        height: 45px;
+        top: 1175px;
+        left: 285px;
+    }
+    
+    #textfield1{
+        position: absolute;
+        width: Hug (310px);
+        height: Hug (125px);
+        top: 1232px;
+        left: 20px;
+        gap: 8px;         
+    }
+    #textfield2{
+        position: absolute;
+        width: Hug (310px);
+        height: Hug (125px);
+        top: 1232px;
+        left: 356px;
+        gap: 8px;        
+    }
+    
+    #Arrow1{
+        position: absolute;
+        width: 55px;
+        top: 1422px;
+        left: 116px;
+        border: 1px;
+        transform: rotate(-180deg);        
+    }
+    
+    #Arrow2{
+        position: absolute;
+        width: 55px;
+        top: 1422px;
+        left: 219px;
+        border: 1px;
+        transform: rotate(180deg);  
+    }
+
+    #group19-2{
+        display: none;
+    }
+    #group19-3{
+        display: none;
+    }
+    
+}
+
